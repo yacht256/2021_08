@@ -19,9 +19,19 @@
 #ok {
     color: red;
     border: 2px solid red;
+    margin: 0 0;
 }
 
 #cancel {
     color: white;
     background-color: black;
+}
+
+.toggleOn {
+    background-color: white;
+
+}
+
+.toggleOff {
+    background-color: darkgray;
 }
